@@ -11,10 +11,7 @@ function App() {
       Autem eos nulla vel eveniet? Dolorem soluta illo id at eaque veritatis suscipit a consectetur amet sed beatae debitis et, consequuntur illum maxime voluptas iusto, voluptatum aspernatur ipsum adipisci praesentium.
       Ratione ipsum ducimus nesciunt debitis ullam perferendis sapiente adipisci dolorem aperiam eveniet maiores, repudiandae quae quibusdam numquam rem praesentium ut consequatur magni aut voluptate dolores id. Ab numquam dignissimos unde?</h1>
 
-      <Routes>
-        <Route path='/' element={<HomePage></HomePage>} ></Route>
-        <Route></Route>
-      </Routes>
+    
     </>
   )
 }
