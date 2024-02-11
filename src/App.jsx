@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-      <h1>Changed again</h1>
+      <h2>STUDENT COMPONENT CHANGED</h2>
     </>
   )
 }
