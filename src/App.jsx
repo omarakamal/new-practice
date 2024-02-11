@@ -1,10 +1,14 @@
 import './App.css'
-
+import {Routes,Route} from 'react-router-dom'
+import HomePage from './components/HomePage'
 function App() {
 
   return (
     <>
-      <h2>STUDENT COMPONENT CHANGED</h2>
+
+      <Routes>
+        <Route path='/home' element={<HomePage></HomePage>} ></Route>
+      </Routes>
     </>
   )
 }
