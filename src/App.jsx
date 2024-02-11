@@ -12,6 +12,10 @@ function App() {
       Ratione ipsum ducimus nesciunt debitis ullam perferendis sapiente adipisci dolorem aperiam eveniet maiores, repudiandae quae quibusdam numquam rem praesentium ut consequatur magni aut voluptate dolores id. Ab numquam dignissimos unde?</h1>
 
     
+
+    <Routes>
+      <Route></Route>
+    </Routes>
     </>
   )
 }
