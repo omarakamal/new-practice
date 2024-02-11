@@ -105,6 +105,11 @@ function App() {
       At perferendis temporibus, repellat ipsam error consequatur corrupti est a sunt, delectus quae consectetur accusantium nihil odio eum. Sit ex quis sed ea et obcaecati, quod ipsum qui numquam commodi?
       Similique, quidem placeat tempora magni laboriosam quae error assumenda itaque alias dolor rerum labore quis iste suscipit id vero quisquam nisi enim inventore, doloremque odit sunt in eveniet mollitia. Consequuntur.
       Ratione ipsum ducimus nesciunt debitis ullam perferendis sapiente adipisci dolorem aperiam eveniet maiores, repudiandae quae quibusdam numquam rem praesentium ut consequatur magni aut voluptate dolores id. Ab numquam dignissimos unde?</h1>
+
+      <Routes>
+        <Route path='/' element={<HomePage></HomePage>} ></Route>
+        <Route></Route>
+      </Routes>
     </>
   )
 }
